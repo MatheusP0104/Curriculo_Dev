@@ -1,1 +1,1 @@
-![Currículo](curriculo.jpeg)
+![Currículo](curriculo.jpg)
